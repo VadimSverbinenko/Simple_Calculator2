@@ -1,0 +1,21 @@
+.cont {
+  margin-left: 500px;
+}
+.row {
+  padding-left: 2px;
+  padding-right: 2px;
+  padding-top: 2px;
+}
+.bk {
+  padding-top: 20px;
+  background-color: darkgray;
+  margin-right: 540px;
+}
+
+.bkim {
+  background-image: url("https://cdn.mos.cms.futurecdn.net/DEpYy8jSdvD9dkvVDSPNoD.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding-top: 400px;
+  background-size: cover;
+}
