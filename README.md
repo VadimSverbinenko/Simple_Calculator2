@@ -6,7 +6,8 @@ Simple Calculator using JS
 Simple calculator using JS,HTML and CSS 
 
  ### Example 
-![Capture](https://user-images.githubusercontent.com/61806389/107755922-1dbf5880-6d2c-11eb-8755-4e197d8690e4.PNG)
+![Capture](https://user-images.githubusercontent.com/61806389/108593741-2b08c280-737e-11eb-84d4-0c979796c289.PNG)
+
 
 
 
